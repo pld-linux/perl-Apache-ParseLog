@@ -5,8 +5,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Apache
 %define	pnam	ParseLog
-Summary:	Apache::ParseLog - Object-oriented Perl extension for parsing Apache log files
-Summary(pl):	Apache::ParseLog - Obiektowy modu³ Perla do analizowania logów Apache
+Summary:	Apache::ParseLog - object-oriented Perl extension for parsing Apache log files
+Summary(pl):	Apache::ParseLog - obiektowy modu³ Perla do analizowania logów Apache
 Name:		perl-Apache-ParseLog
 Version:	1.02
 Release:	2
