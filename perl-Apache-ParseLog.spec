@@ -10,7 +10,8 @@ Summary(pl):	Apache::ParseLog - obiektowy modu³ Perla do analizowania logów Apac
 Name:		perl-Apache-ParseLog
 Version:	1.02
 Release:	2
-License:	GPL/Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	92bd6a964a55e8f7cf0f50dbf77a5280
