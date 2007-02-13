@@ -6,7 +6,7 @@
 %define		pdir	Apache
 %define		pnam	ParseLog
 Summary:	Apache::ParseLog - object-oriented Perl extension for parsing Apache log files
-Summary(pl.UTF-8):   Apache::ParseLog - obiektowy moduł Perla do analizowania logów Apache
+Summary(pl.UTF-8):	Apache::ParseLog - obiektowy moduł Perla do analizowania logów Apache
 Name:		perl-Apache-ParseLog
 Version:	1.02
 Release:	3
