@@ -9,7 +9,7 @@ Summary:	Apache::ParseLog - object-oriented Perl extension for parsing Apache lo
 Summary(pl.UTF-8):	Apache::ParseLog - obiektowy moduł Perla do analizowania logów Apache
 Name:		perl-Apache-ParseLog
 Version:	1.02
-Release:	3
+Release:	4
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
